@@ -64,3 +64,11 @@
 - 기능 추가 참고
     - [https://docs.djangoproject.com/en/4.0/ref/contrib/admin/actions/#admin-actions](https://docs.djangoproject.com/en/4.0/ref/contrib/admin/actions/#admin-actions)
     - [https://docs.djangoproject.com/en/4.0/ref/contrib/admin/actions/](https://docs.djangoproject.com/en/4.0/ref/contrib/admin/actions/)
+
+
+### 실행영상
+
+https://user-images.githubusercontent.com/62318430/167571725-7ec7061e-ff75-492b-beaf-8029d486365e.mov
+
+
+
