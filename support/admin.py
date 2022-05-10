@@ -48,7 +48,7 @@ class InquiryModelAdmin(admin.ModelAdmin):
     readonly_fields = ('created_at', 'updated_at',)
 
     # 1:1문의 검색 필드 추가
-    search_fields = ('user__username', 'user__phone', 'user__email', )
+    search_fields = ['writer__username', 'phone', 'email', ]
 
     # 필터 필드
     list_filter = ('category', )
